@@ -4,8 +4,8 @@
 **Case study:** Smart Campus Resource Booking System (100 marks)
 **Language:** Python 3 (Tkinter for the GUI, SQLite for the database)
 
-**GitHub repository:** https://github.com/YOUR-USERNAME/smart-campus-booking-system
-*(replace YOUR-USERNAME with your own GitHub username after you push - see "Putting the project on GitHub" below)*
+**GitHub repository:** https://github.com/mmakgotsobot/smart-campus-booking-system
+
 
 ---
 
