@@ -1,0 +1,10 @@
+# Generated database (created on first run)
+campus_booking.db
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
